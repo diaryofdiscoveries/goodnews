@@ -1,8 +1,14 @@
 ## Good News
 
-Good News is a Javascript application that filters articles provided by the Google News API to only show 'uplifting' results.
+Good News is a Javascript application that filters articles provided by the Google News API to only show 'uplifting' results in the browser.
 
-
+How to set up the application
+----
+```
+$ git clone https://github.com/diaryofdiscoveries/goodnews.git
+$ cd goodnews
+$ open index.html
+```
 
 # MVP (Tuesday)
 
